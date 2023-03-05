@@ -23,7 +23,7 @@ The main feature of the project is support for integration with Kaspersky Securi
 
 There was a 3D model of some building with rooms in the scene. It has been removed for security reasons.
 
-For unknown reasons, Unity doesn't support COM objects well (I've been getting crashes while creating some COM objects). In this regard, I created a separate application on the .NET platform - COM objects provider. Both applications communicate using named pipes.
+For unknown reasons, Unity doesn't support COM objects well (I've been getting crashes while creating some COM objects). In this regard, I created a separate application on the .NET platform - [COM objects provider](https://github.com/gslprod/ksc-com-objects-provider). Both applications communicate using named pipes.
 
 The project is presented for informational purposes only. If you would like to use the material from this project in any way, please contact me.
 
