@@ -28,3 +28,17 @@ For unknown reasons, Unity doesn't support COM objects well (I've been getting c
 The project is presented for informational purposes only. If you would like to use the material from this project in any way, please contact me.
 
 All rights reserved.
+
+# Screenshots
+
+![Screenshot 1](https://user-images.githubusercontent.com/122805276/222965165-a311f2d3-9f57-4977-879b-460b7229f6b5.png)
+
+![Screenshot 2](https://user-images.githubusercontent.com/122805276/222965184-d235a560-6a9b-45f4-bddc-01000a5b91a8.png)
+
+![Screenshot 3](https://user-images.githubusercontent.com/122805276/222965195-5acae0ad-72ff-43ac-90cb-61aa0f4b8928.png)
+
+![Screenshot 4](https://user-images.githubusercontent.com/122805276/222965217-de21233c-a145-45e9-b3f0-72802710e1d3.png)
+
+![Screenshot 5](https://user-images.githubusercontent.com/122805276/222965228-9e422dc0-adc2-405c-87a5-fea3e39a0568.png)
+
+![Screenshot 6](https://user-images.githubusercontent.com/122805276/222965232-01402b53-cba3-497e-9d6a-bdb45d7f701a.png)
