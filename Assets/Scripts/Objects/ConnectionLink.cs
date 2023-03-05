@@ -28,6 +28,7 @@ public class ConnectionLink : MonoBehaviour, IDevice, IConnectable, IFilterEleme
 
     private void Start()
     {
+        UpdateVisibility();
         SubscribeToFilter();
     }
 

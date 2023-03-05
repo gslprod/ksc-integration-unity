@@ -26,7 +26,7 @@ public class PC : MonoBehaviour, IDevice, IConnectable, IFilterElement, IKSCAgen
     public GameObject GameObject => gameObject;
     public List<ConnectionPath> ConnectionPaths { get; private set; } = new List<ConnectionPath>();
     public string Name { get; private set; }
-    public bool Visible { get; private set; } = true;
+    public bool Visible { get; private set; }
     public int Floor { get; private set; }
     public IFilterElement.VisibilityMode Mode { get; private set; }
     public Agent Agent { get; private set; }
@@ -39,6 +39,7 @@ public class PC : MonoBehaviour, IDevice, IConnectable, IFilterElement, IKSCAgen
 
     private void Start()
     {
+        UpdateVisibility();
         SubscribeToFilter();
     }
 

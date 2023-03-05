@@ -28,6 +28,7 @@ public class IPTelephone : MonoBehaviour, IDevice, IConnectable, IFilterElement
 
     private void Start()
     {
+        UpdateVisibility();
         SubscribeToFilter();
     }
 

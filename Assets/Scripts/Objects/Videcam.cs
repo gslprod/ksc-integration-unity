@@ -28,6 +28,7 @@ public class Videcam : MonoBehaviour, IDevice, IConnectable, IFilterElement
 
     private void Start()
     {
+        UpdateVisibility();
         SubscribeToFilter();
     }
 
